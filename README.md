@@ -1,4 +1,4 @@
-# btcpricebot
+# RBYpricebot
 price bot that works with slack api
 
 configuration: 
@@ -10,6 +10,6 @@ configuration:
 
 usage:
 troll - a familiar but unwelcome face
-'price <exchange>' to get latest quote, <exchange> can equal: bfx, bs, okc, btce
+'price <exchange>' to get latest quote, <exchange> can equal: btx, polo
 'price !' to get help
 'price all' to print out all exchange quotes
